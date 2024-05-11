@@ -10,7 +10,7 @@ AddEventHandler("esx:bike:lowmoney_gogoro", function(money)
 
 	if cash >= Config.PriceGogoro then
 		xPlayer.Functions.RemoveMoney('cash', Config.PriceGogoro)
-		TriggerClientEvent("QBCore:Command:SpawnVehicle", _source, "gogoro1")
+		TriggerClientEvent("QBCore:Command:SpawnVehicle", _source, "gogoro")
 		TriggerClientEvent("esx:bike:rentSuccess", _source)
 	end
 end)
