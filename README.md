@@ -14,4 +14,4 @@ since multi-core might be really messed up, so we decided to make the ** ESX Fun
 `(Better explanations are commented in the code.)`
 
 ## Media
-![image](https://imgur.com/a/5NeoG2D)
+![image](https://i.imgur.com/9oxxlNV.png)
